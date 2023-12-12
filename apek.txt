@@ -1,2 +1,6 @@
 i am apeksha 
 cse 3 rd sem
+to copy a file remote repository
+after adding delete
+use git push to publish your local commits
+execute commands
