@@ -4,3 +4,6 @@ to copy a file remote repository
 after adding delete
 use git push to publish your local commits
 execute commands
+apeksha k k
+cse 3rd sem
+jnnce
